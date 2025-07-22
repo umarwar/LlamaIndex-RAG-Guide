@@ -1,5 +1,8 @@
 llama-index
 llama-index-llms-replicate
+llama-index-vector-stores-pinecone
 llama-index-embeddings-openai
+pinecone
 python-dotenv
+replicate
 openai
