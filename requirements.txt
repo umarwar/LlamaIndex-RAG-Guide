@@ -1,0 +1,5 @@
+llama-index
+llama-index-llms-replicate
+llama-index-embeddings-openai
+python-dotenv
+openai
