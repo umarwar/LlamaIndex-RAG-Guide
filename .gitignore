@@ -2,4 +2,3 @@
 myenv/
 .venv
 __pycache__/
-pinecone_vector_store.ipynb
